@@ -1,0 +1,29 @@
+.spaced {
+    margin: 0 0 1rem 0;
+}
+
+.top {
+    margin:1rem 0 0 0;
+}
+
+.bottom {
+    margin-bottom:2rem;
+}
+
+.bottom-padding {
+    padding-bottom: 1rem;
+}
+
+.right {
+    float:right;
+}
+
+@media screen and (max-width: 39.9375em) {
+    img {
+        margin-bottom: 1rem;
+    }
+
+    .bottom {
+        margin:0;
+    }
+}
