@@ -18,6 +18,10 @@
     float:right;
 }
 
+.footer {
+    margin-top:3rem;
+}
+
 @media screen and (max-width: 39.9375em) {
     img {
         margin-bottom: 1rem;
